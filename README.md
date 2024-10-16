@@ -2,6 +2,8 @@
 
   <img src='./logo_wizard.png' alt='image' width='250px' />
 
+  <h2> Wizard Code </h2>
+
 
   
 </div>
