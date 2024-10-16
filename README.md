@@ -5,7 +5,7 @@
 
   
 </div>
-<h1> 
+<h3> 
   My Experience
-</h1>
-<img>src='https://skillicons.dev/icons?i=flutter,dart,linux,sqlite,figma' alt=' My Experience' </img>
+</h3>
+<img src='https://skillicons.dev/icons?i=flutter,dart,linux,sqlite,figma' alt=' My Experience'> </img>
