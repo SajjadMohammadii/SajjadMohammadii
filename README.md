@@ -1,8 +1,5 @@
 <div align='center'> 
   <img src='./logo_wizard.png' alt='image' width='350px' />
-  <h3> Wizard Code </h3>
-
-
   
 </div>
 <h3> 
