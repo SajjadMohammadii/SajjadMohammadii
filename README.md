@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-mohammadi-704b57246/)
 
-[![WEBSITE](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=website&logoColor=white)](https://wizard-code.ir/)
+[![WEBSITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wizard-code.ir/)
 
 
 
